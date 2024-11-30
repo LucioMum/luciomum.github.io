@@ -1,1 +1,2 @@
-sss
+User-Agent: *
+Disallow: /login
