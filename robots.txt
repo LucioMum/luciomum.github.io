@@ -1,2 +1,4 @@
 User-Agent: *
 Disallow: /login
+
+Sitemap: https://luciomum.github.io/mgh/sitemap_index.txt
